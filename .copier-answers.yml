@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier
+SelectCodeQualityFeatures:
+- AddLocalTests_flag
+- SelectGitHubActions_flag
+- AddLinting_flag
+- AddPreCommit_flag
+SelectCommunityFeatures: []
+SelectDocumentationFeatures: []
+SelectGitHubActions:
+- AddGitHubActionBuild_flag
+SelectPublishReleaseFeatures: []
+_commit: 0.6.1
+_src_path: https://github.com/nlesc/python-template.git
+copyright_holder: Uday Abu-Shehab
+email: uday@abu-shehab.com
+full_name: Uday Abu-Shehab
+github_organization: Uday-AS
+keywords: ''
+license: MIT
+package_name: surprising_bits
+package_short_description: Information theory and  molecular fingerprints
+template_profile: recommended
+version: 0.1.0
